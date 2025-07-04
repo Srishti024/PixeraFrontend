@@ -1,5 +1,5 @@
-import Post from "../post/Post";
-import "./posts.scss";
+import Post from "../post/Post2";
+import "./Posts2.scss";
 import user1Img from "../../assets/1751376039935pexels-athena-1758144.jpg";
 import user2Img from "../../assets/1751373224112pexels-vince-2233348.jpg"; //pizza
 import user3Img from "../../assets/1751469780473pexels-pixabay-210237.jpg";//horse;

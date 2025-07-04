@@ -1,5 +1,5 @@
-import "./navbar.scss";
-import RightBar from "../rightBar/RightBar";
+import "./navbars.scss";
+import RightBar from "../rightbar/RightBar2";
 import React, { useState, useContext } from "react";
 import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
 import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";

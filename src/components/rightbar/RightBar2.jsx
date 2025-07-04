@@ -1,4 +1,4 @@
-import "./rightBar.scss";
+import "./rightbars.scss";
 import pic1 from "../../assets/1751368782565pexels-pastor-32739270.jpg";
 import pic2 from "../../assets/1751274488382pexels-minan1398-853168.jpg";
 import pic3 from "../../assets/1751372549779pexels-pixabay-45201.jpg";

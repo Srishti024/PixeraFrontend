@@ -1,5 +1,5 @@
-import Login from "./pages/login/Login";
-import Register from "./pages/register/Register";
+import Login from "./pages/login/Login2";
+import Register from "./pages/register/Register2";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -7,11 +7,11 @@ import {
   Outlet,
   Navigate,
 } from "react-router-dom";
-import Navbar from "./components/navbar/Navbar";
-import LeftBar from "./components/leftBar/LeftBar";
-import RightBar from "./components/rightBar/RightBar";
-import Home from "./pages/home/Home";
-import Profile from "./pages/profile/Profile";
+import Navbar from "./components/navbar/NavBar2";
+import LeftBar from "./components/leftbar/LeftBar2";
+import RightBar from "./components/rightbar/RightBar2";
+import Home from "./pages/home/Home2";
+import Profile from "./pages/profile/Profile2";
 import "./style.scss";
 import { useContext } from "react";
 import { DarkModeContext } from "./context/darkModeContext";
@@ -59,11 +59,11 @@ function App() {
       children: [
         {
           path: "/",
-          element: <Home />,
+          element: <Home/>,
         },
         {
           path: "/profile/:id",
-          element: <Profile />,
+          element: <Profile/>
         },
       ],
     },
