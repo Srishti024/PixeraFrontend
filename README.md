@@ -1,4 +1,4 @@
-## 🧩 PIXERA FRONTEND
+## 🌐PIXERA FRONTEND
 A visually elegant, highly responsive, and intuitive UI experience built with React.js and SCSS — designed for seamless social interaction.
 
 Pixera's frontend is crafted with user-centric design and smooth navigation in mind. This is just a frontend page. 
